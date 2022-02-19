@@ -1,14 +1,9 @@
-## Welcome to Vinh Bui GitHub Pages
+## Welcome to GitHub Pages
 
-My name is Vinh Bui. I am an undergrad student at UC Berkeley, focusing on Business and Industrial Analytics.
-I have passion for digging data insigts and pattern. I strongly believe that if we use data correctly, we can
-make the world a better place.
+You can use the [editor on GitHub](https://github.com/quocvinh2014/quocvinh2014.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### My personal projects
-
-1. Gitlet
- 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
