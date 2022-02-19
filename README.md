@@ -48,3 +48,9 @@ The project's goal is to build a machine learning model that learns from previou
 - Use TF-IDF and SVD for processing and performing dimensions reduction of the data. K-Nearest Neighbors is applied for the learning model.
 - Even though the accuracy is not as good as the neural network, but the results are more understandable for non-technical viewers.
 ```
+
+5. ### [Jack London](https://github.com/vinhqbui/jack-london)
+
+```
+Call of the Wild is one of my favorite books. I did some analysis between characters based on their name frequencies in the chapter.
+```
