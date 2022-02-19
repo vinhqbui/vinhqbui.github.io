@@ -4,6 +4,9 @@ My name is Vinh Bui. I am an undergrad student at UC Berkeley, focusing on Busin
 I have passion for digging data insigts and pattern. I strongly believe that if we use data correctly, we can
 make the world a better place.
 
+Here is my [LinkedIn](https://www.linkedin.com/in/vinh-bui-ds/). Please connect to make friends. I would love to hear
+you stories.
+
 
 ### My personal projects
 
