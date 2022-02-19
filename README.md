@@ -10,7 +10,7 @@ you stories.
 
 ### My personal projects
 
-1. ### [Gitlet](https://github.com/vinhqbui/Gitlet)
+### [Gitlet](https://github.com/vinhqbui/Gitlet)
 
 
 ```markdown
@@ -20,7 +20,7 @@ you stories.
 - Emphasize on file manipulation to provide safe backup and restoration of files.
 ```
  
-2. ### [Jump61B](https://github.com/vinhqbui/Jump61B)
+### [Jump61B](https://github.com/vinhqbui/Jump61B)
 
 
 ```markdown
@@ -29,7 +29,7 @@ The KJumpingCube game1 is a two-person board game. It is a pure strategy game, i
 - Using OOP concepts to ensure maintainability of the code.
 ```
 
-3. ### [The Enigma](https://github.com/vinhqbui/the-Enigma)
+### [The Enigma](https://github.com/vinhqbui/the-Enigma)
 
 
 ```markdown
@@ -40,7 +40,7 @@ This is a simulation of the Enigma machine that was used in World War 2.
 - Unit tests to ensure correctness at modules level.
 ```
 
-4. ### [Grading Assistant Model](https://github.com/vinhqbui/Grading-Essay)
+### [Grading Assistant Model](https://github.com/vinhqbui/Grading-Essay)
 
 
 ```markdown
@@ -49,7 +49,7 @@ The project's goal is to build a machine learning model that learns from previou
 - Even though the accuracy is not as good as the neural network, but the results are more understandable for non-technical viewers.
 ```
 
-5. ### [Jack London](https://github.com/vinhqbui/jack-london)
+### [Jack London](https://github.com/vinhqbui/jack-london)
 
 ```
 Call of the Wild is one of my favorite books. I did some analysis between characters based on their name frequencies in the chapter.
